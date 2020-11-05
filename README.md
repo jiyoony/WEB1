@@ -1,3 +1,31 @@
 # WEB1
+<!doctype html>
+<html>
+ <head>
+  <title>jiyun's web</title>
+  <meta charset="udf-8">
+ </head>
 
-![jiyun](https://user-images.githubusercontent.com/65219386/98261221-92fded80-1fc7-11eb-928c-1a6cfe8edc08.jpeg)
+ <body>
+  <ol>
+   <li>name</li>
+   <li>nation</li>
+   <li>major</li>
+   <li>age</li>
+  </ol>
+  <h1>지윤이에 대해 알아볼까?</h1>
+  <strong>Welcome to Jiyun's web page!</strong>
+  <p>
+  My <u>name</u> is <font color="pink">jiyun!</font><br>
+  I live in <u>korea</u>.<br>
+  My <u>major</u> is <font color="blue">SoftWare Engineering.</font><br>
+  I'm <u><font color="green">sopomore</font></u> in university.<br>
+  THis is my <u><font color="red"><a href="https://www.facebook.com/profile.php?id=100008235107257" target="_blank" title="facepage">facebook<a></font></u> page<br>
+
+  <p>
+  Look!! This is my <u>selfie</u>.
+  <br>
+  <img src="![jiyun](https://user-images.githubusercontent.com/65219386/98261221-92fded80-1fc7-11eb-928c-1a6cfe8edc08.jpeg)" width="450">
+ </body>
+</html>
+
